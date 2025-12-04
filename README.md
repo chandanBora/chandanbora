@@ -1,13 +1,13 @@
 Hi there 👋 My name is Chandan Bora
 ====================================================================================================================================
 
-Tech Lead at Wieden + Kennedy
+Tech Lead!
 -----------------------------
 
 I am a strong, self learner and skilled Tech Lead/DevOps engineer with 15+ years experience of developing, maintaining and optimising webApps / server environments. Happy to work in a team with my problem solving and devOps skills. Endlessly curious and eager to learn.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [hello@chandanbora.com](mailto:hello@chandanbora.com)
+* ✉️  You can contact me at [chandanbora.dev@gmail.com](mailto:chandanbora.dev@gmail.com)
 * 🚀  I'm currently working on some offcial and a [Perosnal Project](http://chandanbora.com)
 * 🧠  I'm learning Generative AI, Next.js framework and some Aquascaping
 * 🤝  I'm open to collaborating on Interesting web projects
