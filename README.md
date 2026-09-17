@@ -9,7 +9,7 @@ I am a strong, self learner and skilled Technology Consultant & DevOps engineer 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [chandanbora.DEV@gmail.com](mailto:chandanbora.dev@gmail.com)
 * 🚀  I'm currently working on some official and personal projects
-* 🧠  I'm learning Generative AI, LLM and some Aquascaping
+* 🧠  I'm trying hands on Generative AI, LLM and some Aquascaping
 * 🤝  I'm open to collaborating on Interesting web projects
 * ⚡  I'm an Aspiring Pistol Shooter, a Yoga Practitioner 🧘 and cycling enthusiast. 🚴‍♂️🎯
 
